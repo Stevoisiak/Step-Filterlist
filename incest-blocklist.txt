@@ -1,0 +1,33 @@
+! ==============
+! == Danbooru ==
+! ==============
+! Images tagged with "incest"
+danbooru.donmai.us##article[data-tags~="incest"]
+
+! ==============
+! == Gelbooru ==
+! ==============
+! Images tagged with "incest"
+gelbooru.com##article.thumbnail-preview:has(> a > img[title~="incest"])
+
+! =============
+! == nhentai == 
+! =============
+! Galleries tagged with "incest"
+nhentai.net##.gallery[data-tags~="22942"]
+
+! =============
+! == Pornhub ==
+! =============
+! Videos with step<relative> in title
+www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/\bstep(?:[-\s]*)(?:aunt|bro|brother|dad|daughter|father|grandma|mom|mother|nephew|sibling|sis|sister|son|uncle)s?\b/i"))
+
+! =================
+! == Rule 34.xxx ==
+! =================
+! -- Post list page & Search
+rule34.xxx###content > #post-list > .content > .image-list > span.thumb:has(> a > img:is([title~="incest"], [title~="incest_(lore)"]))
+! -- My Account > My Favorites
+rule34.xxx###content > .image-list > span:has( > span.thumb > a > img:is([title~="incest"], [title~="incest_(lore)"]))  
+! -- Post page (hide image if incest tag is present)
+rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], [href$="&tags=incest_%28lore%29"]):upward(#post-view) > div#right-col > div#fit-to-screen > div.flexi > div > img#image
