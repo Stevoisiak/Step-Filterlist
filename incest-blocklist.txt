@@ -1,14 +1,11 @@
-! ==============
-! == Danbooru ==
-! ==============
-! Images tagged with "incest"
-danbooru.donmai.us##article[data-tags~="incest"]
-
-! ==============
-! == Gelbooru ==
-! ==============
-! Images tagged with "incest"
-gelbooru.com##article.thumbnail-preview:has(> a > img[title~="incest"])
+! ============
+! == Boorus ==
+! ============
+! Imageboards categorized by tag. Filters can be generalized.
+! Images with AI tags
+donmai.us##.post-preview:has(img[title~="incest"])
+gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
+hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
 ! =============
 ! == nhentai == 
