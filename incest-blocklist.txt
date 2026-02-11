@@ -7,6 +7,20 @@ donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
+! =================
+! == Hentai2Read ==
+! =================
+! -- Homepage
+! Galleries tagged with "incest"
+
+! Galleries
+hentai2read.com##.book-grid-item-container:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+! Recently Uploaded
+hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+
+! TODO: Reading Now/Reader Reccomendation/Newly Completed
+! TODO: Related Manga
+
 ! =============
 ! == nhentai == 
 ! =============
