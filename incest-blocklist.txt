@@ -25,6 +25,8 @@ hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [dat
 ! == nhentai == 
 ! =============
 ! Galleries tagged with "incest"
+! Note: This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.
+! Note: Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
 nhentai.net##.gallery[data-tags~="22942"]
 
 ! =============
