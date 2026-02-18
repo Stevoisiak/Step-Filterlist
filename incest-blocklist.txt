@@ -12,14 +12,9 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 ! =================
 ! -- Homepage
 ! Galleries tagged with "incest"
-
-! Galleries
 hentai2read.com##.book-grid-item-container:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
-! Recently Uploaded
+! Recently Uploaded tagged with "incest"
 hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
-
-! TODO: Reading Now/Reader Reccomendation/Newly Completed
-! TODO: Related Manga
 
 ! =============
 ! == nhentai == 
@@ -33,7 +28,8 @@ nhentai.net##.gallery[data-tags~="22942"]
 ! == Pornhub ==
 ! =============
 ! Videos with step<relative> in title
-www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/\bstep(?:[-\s]*)(?:aunt|bro|brother|dad|daughter|father|grandma|mom|mother|nephew|sibling|sis|sister|son|uncle)s?\b/i"))
+www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/\bstep(?:[-\s]*)(?:aunt|bro|brother|dad|daddy|daughter|father|grandma|mom|mother|nephew|sibling|sis|sister|son|uncle)s?\b/i"))
+
 
 ! =================
 ! == Rule 34.xxx ==
