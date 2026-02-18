@@ -40,3 +40,18 @@ rule34.xxx###content > #post-list > .content > .image-list > span.thumb:has(> a 
 rule34.xxx###content > .image-list > span:has( > span.thumb > a > img:is([title~="incest"], [title~="incest_(lore)"]))  
 ! -- Post page (hide image if incest tag is present)
 rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], [href$="&tags=incest_%28lore%29"]):upward(#post-view) > div#right-col > div#fit-to-screen > div.flexi > div > img#image
+
+! ================
+! == TubeGalore ==
+! ================
+! -- Homepage (https://www.tubegalore.com/)
+! "Mom" in "Categories" menu near top of page
+www.tubegalore.com##.menu-item[href="/c/mom"]
+! "Mom" and "Mom Anal" in "Popular Categories"
+www.tubegalore.com##.card:has(:is([href="/c/mom"], [href="/c/mom-anal"])
+
+! -- Popular videos (https://www.tubegalore.com/popular)
+! Videos with step<family> in title
+www.tubegalore.com##.card:has(a:matches-attr(title="/\bstep(?:[-\s]*)(?:aunt|bro|brother|dad|daddy|daughter|father|grandma|mom|mother|nephew|sibling|sis|sister|son|uncle)s?\b/i"))
+! Videos with <relative>-in-law in title
+www.tubegalore.com##.card:has(a:matches-attr(title="/(?:brother|daughter|father|mother|sister|son)\bin\blaw/i"))
