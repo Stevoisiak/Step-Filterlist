@@ -46,9 +46,9 @@ rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], 
 ! ================
 ! -- Homepage (https://www.tubegalore.com/)
 ! "Mom" in "Categories" menu near top of page
-www.tubegalore.com##.menu-item[href="/c/mom"]
+www.tubegalore.com##.menu-item[href$="/c/mom"]
 ! "Mom" and "Mom Anal" in "Popular Categories"
-www.tubegalore.com##.card:has(:is([href="/c/mom"], [href="/c/mom-anal"])
+www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
 
 ! -- Popular videos (https://www.tubegalore.com/popular)
 ! Videos with step<family> in title
