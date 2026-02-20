@@ -31,6 +31,10 @@ nhentai.net##.gallery[data-tags~="22942"]
 www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
 www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[ -]in[ -]law/i"))
 
+! Search autocomplete suggestions
+www.pornhub.com##.keepOpen:matches-attr(data-value="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
+www.pornhub.com##.keepOpen:matches-attr(data-value="/(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[ -]in[ -]law/i")
+
 ! =================
 ! == Rule 34.xxx ==
 ! =================
