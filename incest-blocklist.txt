@@ -54,4 +54,4 @@ www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
 ! Videos with step<family> in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
 ! Videos with <relative>-in-law in title
-www.tubegalore.com##.card:has(a:matches-attr(title="/(brother|daughter|father|mother|sister|son)\bin\blaw/i"))
+www.tubegalore.com##.card:has(a:matches-attr(title="/(brother|daughter|father|mother|sister|son)[ -]in[ -]law/i"))
