@@ -29,7 +29,7 @@ nhentai.net##.gallery[data-tags~="22942"]
 ! =============
 ! Videos with step<relative> in title
 www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
-
+www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/(brother|daughter|father|mother|sister|son)[ -]in[ -]law/i"))
 
 ! =================
 ! == Rule 34.xxx ==
