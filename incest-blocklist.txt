@@ -59,3 +59,14 @@ www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
 www.tubegalore.com##.card:has(a:matches-attr(title="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
 ! Videos with <relative>-in-law in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[ -]in[ -]law/i"))
+
+! =============
+! == XVideos ==
+! =============
+! Videos
+www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
+www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[ -]in[ -]law/i"))
+
+! Auto-complete search suggestions
+www.xvideos.com##.keywords > li:has-text("/step([-\s]*)(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
+www.xvideos.com##.keywords > li:has-text("/(aunt|bro|brother|cousin|dad|daddy|daughter|father|grandma|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[ -]in[ -]law/i")
