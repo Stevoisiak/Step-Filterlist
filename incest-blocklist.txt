@@ -24,6 +24,10 @@ hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [dat
 ! Note: Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
 nhentai.net##.gallery[data-tags~="22942"]
 
+! -- https://nhentai.net/favorites/
+! Favorites/Remove button
+nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
+
 ! =============
 ! == Pornhub ==
 ! =============
