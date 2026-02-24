@@ -64,6 +64,18 @@ www.tubegalore.com##.card:has(a:matches-attr(title="/step([-_ ]*)(aunt|bro|broth
 ! Videos with <relative>-in-law in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
 
+! ==============
+! == XNXX.com ==
+! ==============
+! -- https://www.xnxx.com/
+! "Family" category thumbnail
+www.xnxx.com##.thumb-cat[data-id="79"]
+
+! -- https://www.xnxx.com/best/2026-01
+! Videos with keyword in title
+www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
+www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
+
 ! =============
 ! == XVideos ==
 ! =============
