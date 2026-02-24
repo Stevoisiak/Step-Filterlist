@@ -33,11 +33,11 @@ nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
 ! =============
 ! Videos with step<relative> in title
 www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
-www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
+www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/in[-_ ]law/i"))
 
 ! Search autocomplete suggestions
 www.pornhub.com##.keepOpen:matches-attr(data-value="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
-www.pornhub.com##.keepOpen:matches-attr(data-value="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i")
+www.pornhub.com##.keepOpen:matches-attr(data-value="/in[-_ ]law/i")
 
 ! =================
 ! == Rule 34.xxx ==
@@ -62,7 +62,7 @@ www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
 ! Videos with step<family> in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
 ! Videos with <relative>-in-law in title
-www.tubegalore.com##.card:has(a:matches-attr(title="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
+www.tubegalore.com##.card:has(a:matches-attr(title="/in[-_ ]law/i"))
 
 ! ==============
 ! == XNXX.com ==
@@ -74,15 +74,15 @@ www.xnxx.com##.thumb-cat[data-id="79"]
 ! -- https://www.xnxx.com/best/2026-01
 ! Videos with keyword in title
 www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
-www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
+www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/in[-_ ]law/i"))
 
 ! =============
 ! == XVideos ==
 ! =============
 ! Videos
 www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
-www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i"))
+www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/in[-_ ]law/i"))
 
 ! Auto-complete search suggestions
 www.xvideos.com##.keywords > li:has-text("/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
-www.xvideos.com##.keywords > li:has-text("/(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)[-_ ]in[-_ ]law/i")
+www.xvideos.com##.keywords > li:has-text("/in[-_ ]law/i")
