@@ -67,6 +67,13 @@ www.tubegalore.com##.card:has(a:matches-attr(title="/step([-_ ]*)(aunt|bro|broth
 ! Videos with <relative>-in-law in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/in[-_ ]law/i"))
 
+! ================
+! == WeirdJapan ==
+! ================
+! -- https://wierdjapan.com/
+weirdjapan.com##.item:has(> :matches-attr(title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
+weirdjapan.com##.item:has(> :matches-attr(title="/in[-_ ]law/i"))
+
 ! ==============
 ! == XNXX.com ==
 ! ==============
