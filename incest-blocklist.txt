@@ -57,6 +57,9 @@ rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], 
 www.tubegalore.com##.menu-item[href$="/c/mom"]
 ! "Mom" and "Mom Anal" in "Popular Categories"
 www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
+! Search bar autocomplete suggestions
+www.tubegalore.com##.autocomplete-result:matches-attr(data-suggestion="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
+www.tubegalore.com##.autocomplete-result:matches-attr(data-suggestion="/in[-_ ]law/i")
 
 ! -- Popular videos (https://www.tubegalore.com/popular)
 ! Videos with step<family> in title
