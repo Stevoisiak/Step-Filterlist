@@ -2,6 +2,7 @@
 ! == Boorus ==
 ! ============
 ! Imageboards categorized by tag. Filters can be generalized.
+
 ! Images with AI tags
 donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
@@ -15,6 +16,14 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 hentai2read.com##.book-grid-item-container:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
 ! Recently Uploaded tagged with "incest"
 hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+
+! ===============
+! == Hitomi.la ==
+! ===============
+! -- https://hitomi.la/
+! Galleries tagged with "incest"
+! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
+hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
 
 ! =============
 ! == nhentai == 
