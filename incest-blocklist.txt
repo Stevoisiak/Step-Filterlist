@@ -106,6 +106,12 @@ weirdjapan.com##.item:has(> :matches-attr(title="/step([-_ ]*)(aunt|bro|cousin|d
 weirdjapan.com##.item:has(> :matches-attr(title="/in[-_ ]law/i"))
 
 ! ==============
+! == xHamster ==
+! ==============
+xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|uncle)/i"))
+xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/in[-_ ]law/i"))
+
+! ==============
 ! == XNXX.com ==
 ! ==============
 ! -- https://www.xnxx.com/
