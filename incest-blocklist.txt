@@ -25,6 +25,13 @@ hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [dat
 ! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
 hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
 
+! ===============
+! == JizzBerry ==
+! ===============
+! -- https://jizzberry.com/
+jizzberry.com##.item:has(> :matches-attr(title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
+jizzberry.com##.item:has(> :matches-attr(title="/in[-_ ]law/i"))
+
 ! =====================
 ! == Naughty America ==
 ! =====================
