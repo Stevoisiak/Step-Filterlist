@@ -32,6 +32,12 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest
 jizzberry.com##.item:has(> :matches-attr(title="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|uncle)/i"))
 jizzberry.com##.item:has(> :matches-attr(title="/in[-_ ]law/i"))
 
+! =============
+! == My Lust ==
+! =============
+mylust.com##.item:has(> :matches-attr(href="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|uncle)/i"))
+mylust.com##.item:has(> :matches-attr(href="/in[-_ ]law/i"))
+
 ! =====================
 ! == Naughty America ==
 ! =====================
