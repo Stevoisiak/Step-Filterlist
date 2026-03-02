@@ -1,3 +1,6 @@
+! Title: Anti-Incest Blocklist
+! Homepage: https://github.com/Stevoisiak/Anti-Incest-Blocklist
+
 ! ============
 ! == Boorus ==
 ! ============
