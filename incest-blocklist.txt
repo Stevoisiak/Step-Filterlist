@@ -25,6 +25,21 @@ hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [dat
 ! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
 hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
 
+! =====================
+! == Naughty America ==
+! =====================
+! -- https://www.naughtyamerica.com/porn-fantasies (Categories)
+www.naughtyamerica.com##.fantasy-item[href="/fantasy/step-mom-porn-videos"]
+www.naughtyamerica.com##.fantasy-item[href="/fantasy/step-sister-porn-videos"]
+
+! -- https://www.naughtyamerica.com/search?term=step
+! Videos with keyword
+www.naughtyamerica.com##.scene-grid-item:has(> a:matches-attr(data-title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i"))
+www.naughtyamerica.com##.scene-grid-item:has(> a:matches-attr(data-title="/in[-_ ]law/i"))
+! Sites/categories with keyword
+www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-attr(data-title="/step([-_ ]*)(aunt|bro|brother|cousin|dad|daddy|daughter|family|father|grandma|mama|mom|mommy|mother|nephew|sibling|sis|sister|son|uncle)s?/i")
+www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-attr(data-title="/in[-_ ]law/i")
+
 ! =============
 ! == nhentai == 
 ! =============
