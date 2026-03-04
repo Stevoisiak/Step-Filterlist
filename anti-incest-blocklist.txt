@@ -1,6 +1,17 @@
 ! Title: Anti-Incest Blocklist
 ! Homepage: https://github.com/Stevoisiak/Anti-Incest-Blocklist
 
+! ===========
+! == 4tube ==
+! ===========
+! Videos with keyword
+www.4tube.com##.card:has(> :matches-attr(title="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|uncle)/i"))
+www.4tube.com##.card:has(> :matches-attr(title="/in[-_ ]law/i"))
+
+! Search suggestions below category thumbnails
+www.4tube.com##.pill:matches-attr(href="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|uncle)/i")
+www.4tube.com##.pill:matches-attr(href="/in[-_ ]law/i")
+
 ! ============
 ! == Boorus ==
 ! ============
