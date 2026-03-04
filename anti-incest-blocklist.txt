@@ -27,7 +27,7 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 ! =================
 ! -- Homepage
 ! Galleries tagged with "incest"
-hentai2read.com##.book-grid-item-container:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+hentai2read.com##.book-grid > div:has([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
 ! Recently Uploaded tagged with "incest"
 hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
 
