@@ -143,6 +143,11 @@ www.xnxx.com##.thumb-cat[data-id="79"]
 www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|ter|uncle)/i"))
 www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/in[-_ ]law/i"))
 
+! -- https://www.xnxx.com/search/porn
+! Similar searches (top and bottom of page)
+www.xnxx.com##.clear-infobar > span:has(> :matches-attr(href="/step([-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com##.clear-infobar > span:has(> :matches-attr(href="/in[-_ ]law/i"))
+
 ! =============
 ! == XVideos ==
 ! =============
