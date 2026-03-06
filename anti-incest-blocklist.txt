@@ -141,10 +141,11 @@ www.xnxx.com##.thumb-cat[data-id="79"]
 www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/in([+-_ ]|%20)law/i"))
 
-! -- https://www.xnxx.com/best/2026-01
+! -- https://www.xnxx.com/search/step+fantasy
 ! Videos with keyword in title
-www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
-www.xnxx.com##.thumb-block:has(.thumb > :matches-attr(href="/in([+-_ ]|%20)law/i"))
+www.xnxx.com##.thumb-block:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com##.thumb-block:has(a:matches-attr(title="/in([+-_ ]|%20)law/i"))
+! Premium videos with keyword
 
 ! -- https://www.xnxx.com/search/porn
 ! Similar searches (top and bottom of page)
