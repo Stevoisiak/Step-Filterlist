@@ -137,6 +137,9 @@ xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/in[+-_ ]law/i")
 ! -- https://www.xnxx.com/
 ! "Family" category thumbnail
 www.xnxx.com##.thumb-cat[data-id="79"]
+! Categories on left side of page
+www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/step([+-_ ]*)(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/in[+-_ ]law/i"))
 
 ! -- https://www.xnxx.com/best/2026-01
 ! Videos with keyword in title
