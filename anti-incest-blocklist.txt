@@ -5,11 +5,11 @@
 ! == 4tube ==
 ! ===========
 ! Videos with keyword
-www.4tube.com##.card:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.4tube.com##.card:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.4tube.com##.card:has(> :matches-attr(title="/in([+-_ ]|%20)law/i"))
 
 ! Search suggestions below category thumbnails
-www.4tube.com##.pill:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.4tube.com##.pill:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.4tube.com##.pill:matches-attr(href="/in([+-_ ]|%20)law/i")
 
 ! ============
@@ -43,13 +43,13 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest
 ! == JizzBerry ==
 ! ===============
 ! -- https://jizzberry.com/
-jizzberry.com##.item:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+jizzberry.com##.item:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 jizzberry.com##.item:has(> :matches-attr(title="/in([+-_ ]|%20)law/i"))
 
 ! =============
 ! == My Lust ==
 ! =============
-mylust.com##.item:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+mylust.com##.item:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 mylust.com##.item:has(> :matches-attr(href="/in([+-_ ]|%20)law/i"))
 
 ! =====================
@@ -61,10 +61,10 @@ www.naughtyamerica.com##.fantasy-item[href="/fantasy/step-sister-porn-videos"]
 
 ! -- https://www.naughtyamerica.com/search?term=step
 ! Videos with keyword
-www.naughtyamerica.com##.scene-grid-item:has(> a:matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.naughtyamerica.com##.scene-grid-item:has(> a:matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.naughtyamerica.com##.scene-grid-item:has(> a:matches-attr(data-title="/in([+-_ ]|%20)law/i"))
 ! Sites/categories with keyword
-www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-attr(data-title="/in([+-_ ]|%20)law/i")
 
 ! =============
@@ -83,11 +83,11 @@ nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
 ! == Pornhub ==
 ! =============
 ! Videos with step<relative> in title
-www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > img.thumb:matches-attr(data-title="/in([+-_ ]|%20)law/i"))
 
 ! Search autocomplete suggestions
-www.pornhub.com##.keepOpen:matches-attr(data-value="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.pornhub.com##.keepOpen:matches-attr(data-value="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.pornhub.com##.keepOpen:matches-attr(data-value="/in([+-_ ]|%20)law/i")
 
 ! =================
@@ -109,12 +109,12 @@ www.tubegalore.com##.menu-item[href$="/c/mom"]
 ! "Mom" and "Mom Anal" in "Popular Categories"
 www.tubegalore.com##.card:has(:is([href$="/c/mom"], [href$="/c/mom-anal"]))
 ! Search bar autocomplete suggestions
-www.tubegalore.com##.autocomplete-result:matches-attr(data-suggestion="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.tubegalore.com##.autocomplete-result:matches-attr(data-suggestion="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.tubegalore.com##.autocomplete-result:matches-attr(data-suggestion="/in([+-_ ]|%20)law/i")
 
 ! -- Popular videos (https://www.tubegalore.com/popular)
 ! Videos with step<family> in title
-www.tubegalore.com##.card:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.tubegalore.com##.card:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 ! Videos with <relative>-in-law in title
 www.tubegalore.com##.card:has(a:matches-attr(title="/in([+-_ ]|%20)law/i"))
 
@@ -122,13 +122,13 @@ www.tubegalore.com##.card:has(a:matches-attr(title="/in([+-_ ]|%20)law/i"))
 ! == WeirdJapan ==
 ! ================
 ! -- https://wierdjapan.com/
-weirdjapan.com##.item:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+weirdjapan.com##.item:has(> :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 weirdjapan.com##.item:has(> :matches-attr(title="/in([+-_ ]|%20)law/i"))
 
 ! ==============
 ! == xHamster ==
 ! ==============
-xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/in([+-_ ]|%20)law/i"))
 
 ! ==============
@@ -138,27 +138,27 @@ xhamster.com##.thumb-list__item:has(> :matches-attr(aria-label="/in([+-_ ]|%20)l
 ! "Family" category thumbnail
 www.xnxx.com##.thumb-cat[data-id="79"]
 ! Categories on left side of page
-www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.xnxx.com###side-cat-list > li:has(> :matches-attr(href="/in([+-_ ]|%20)law/i"))
 
 ! -- https://www.xnxx.com/search/step+fantasy
 ! Videos with keyword in title
-www.xnxx.com##.thumb-block:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com##.thumb-block:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.xnxx.com##.thumb-block:has(a:matches-attr(title="/in([+-_ ]|%20)law/i"))
 ! Premium videos with keyword
 
 ! -- https://www.xnxx.com/search/porn
 ! Similar searches (top and bottom of page)
-www.xnxx.com##.clear-infobar > span:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xnxx.com##.clear-infobar > span:has(> :matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.xnxx.com##.clear-infobar > span:has(> :matches-attr(href="/in([+-_ ]|%20)law/i"))
 
 ! =============
 ! == XVideos ==
 ! =============
 ! Videos
-www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.xvideos.com##.thumb-block:has(.title > :matches-attr(title="/in([+-_ ]|%20)law/i"))
 
 ! Auto-complete search suggestions
-www.xvideos.com##.keywords > li:has-text("/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.xvideos.com##.keywords > li:has-text("/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.xvideos.com##.keywords > li:has-text("/in([+-_ ]|%20)law/i")
