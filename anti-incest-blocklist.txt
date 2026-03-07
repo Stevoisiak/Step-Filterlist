@@ -71,13 +71,20 @@ www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-at
 ! == nhentai == 
 ! =============
 ! Galleries tagged with "incest"
-! Note: This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.
-! Note: Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
+! * This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.
+! * Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
 nhentai.net##.gallery[data-tags~="22942"]
 
 ! -- https://nhentai.net/favorites/
 ! Favorites/Remove button
 nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
+
+! =============
+! == PornHat ==
+! =============
+! * Includes sister sites
+ok.xxx,perfectgirls.xxx,pornhat.com##.thumb-bl-video:has(> .thumb-video > a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+ok.xxx,perfectgirls.xxx,pornhat.com##.thumb-bl-video:has(> .thumb-video > a:matches-attr(title="/in([+-_ ]|%20)*law/i"))
 
 ! =============
 ! == Pornhub ==
