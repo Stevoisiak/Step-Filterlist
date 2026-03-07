@@ -100,6 +100,18 @@ rule34.xxx###content > .image-list > span:has( > span.thumb > a > img:is([title~
 ! -- Post page (hide image if incest tag is present)
 rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], [href$="&tags=incest_%28lore%29"]):upward(#post-view) > div#right-col > div#fit-to-screen > div.flexi > div > img#image
 
+! ===============
+! == SuperPorn ==
+! ===============
+! -- https://www.superporn.com/
+! Video by tag
+www.superporn.com##.thumb-video:has(.thumb-video__info-item:is([href$="/brother-and-sister"], [href$="/dad-and-daughter"], [href$="/family-sex"], [href$="/mom-and-son"]))
+! Spanish tag
+www.superporn.com##.thumb-video:has(.thumb-video__info-item[href$="/incesto-porno"])
+! Keywords
+www.superporn.com##.thumb-video:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.superporn.com##.thumb-video:has(img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
+
 ! ================
 ! == TubeGalore ==
 ! ================
