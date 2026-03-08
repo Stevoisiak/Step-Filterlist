@@ -110,6 +110,22 @@ www.pornhub.com##li.pcVideoListItem:has(> div > .phimage > a.linkVideoThumb > im
 www.pornhub.com##.keepOpen:matches-attr(data-value="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.pornhub.com##.keepOpen:matches-attr(data-value="/in([+-_ ]|%20)*law/i")
 
+! =============
+! == RedTube ==
+! =============
+! -- https://www.redtube.com/
+! Videos
+www.redtube.com##.thumbnail-card:has(.video-title-text:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.redtube.com##.thumbnail-card:has(.video-title-text:matches-attr(title="/in([+-_ ]|%20)*law/i"))
+
+! Top Trending Playlists
+www.redtube.com##.rt_playlist:has(.big_thumb_img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.redtube.com##.rt_playlist:has(.big_thumb_img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
+
+! -- https://www.redtube.com/categories
+! Category - Step Fantasy
+www.redtube.com##.category_item[data-category_id="2311"]
+
 ! =================
 ! == Rule 34.xxx ==
 ! =================
@@ -187,7 +203,7 @@ www.xnxx.com##.clear-infobar > span:has(> a:matches-attr(href="/step([+-_ ]|%20)
 www.xnxx.com##.clear-infobar > span:has(> a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
 
 ! =============
-! == XVideos ==
+! == xVideos ==
 ! =============
 ! Videos
 www.xvideos.com##.thumb-block:has(.title > a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
