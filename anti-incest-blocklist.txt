@@ -12,6 +12,14 @@ www.4tube.com##.card:has(> :matches-attr(title="/in([+-_ ]|%20)*law/i"))
 www.4tube.com##.pill:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.4tube.com##.pill:matches-attr(href="/in([+-_ ]|%20)*law/i")
 
+! ==========
+! == Beeg ==
+! ==========
+! -- https://beeg.com/
+! Videos
+beeg.com##.core-page__unit-column:has(img.tw-bg-overlay-5:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+beeg.com##.core-page__unit-column:has(img.tw-bg-overlay-5:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
+
 ! ============
 ! == Boorus ==
 ! ============
