@@ -176,7 +176,7 @@ rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], 
 ! -- https://smutr.com/
 ! Videos
 smutr.com##.thumb-holder:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
-smutr.com##.thumb-holder:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+smutr.com##.thumb-holder:has(img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
 ! ===============
 ! == SpankBang ==
