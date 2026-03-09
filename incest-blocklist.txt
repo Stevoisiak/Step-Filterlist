@@ -136,6 +136,7 @@ ok.xxx,perfectgirls.xxx,pornhat.com##.thumb-bl-video:has(> .thumb-video > a:matc
 ! =============
 ! == Pornhub ==
 ! =============
+! -- https://www.pornhub.com/
 ! Videos with step<relative> in title
 www.pornhub.com##li[data-video-id]:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.pornhub.com##li[data-video-id]:has(img:matches-attr(title="/in([+-_ ]|%20)*law/i"))
@@ -143,6 +144,11 @@ www.pornhub.com##li[data-video-id]:has(img:matches-attr(title="/in([+-_ ]|%20)*l
 ! Search autocomplete suggestions
 www.pornhub.com##.keepOpen:matches-attr(data-value="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.pornhub.com##.keepOpen:matches-attr(data-value="/in([+-_ ]|%20)*law/i")
+
+! -- https://www.pornhub.com/ (logged in)
+! Subscriptions
+www.pornhub.com##.subscription-carousel-video-card:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.pornhub.com##.subscription-carousel-video-card:has(img:matches-attr(title="/in([+-_ ]|%20)*law/i"))
 
 ! =============
 ! == RedTube ==
