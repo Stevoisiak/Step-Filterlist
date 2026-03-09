@@ -30,6 +30,13 @@ donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
+! =============
+! == eporner ==
+! =============
+! Videos
+www.eporner.com##.mb:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.eporner.com##.mb:has(img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
+
 ! =================
 ! == Hentai City ==
 ! =================
