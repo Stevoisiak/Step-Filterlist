@@ -12,6 +12,13 @@ www.4tube.com##.card:has(> :matches-attr(title="/in([+-_ ]|%20)*law/i"))
 www.4tube.com##.pill:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
 www.4tube.com##.pill:matches-attr(href="/in([+-_ ]|%20)*law/i")
 
+! =================
+! == Alpha Porno ==
+! =================
+! -- https://www.alphaporno.com/search/?q=step
+www.alphaporno.com##.thumb:has(a:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.alphaporno.com##.thumb:has(a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
+
 ! ==========
 ! == Beeg ==
 ! ==========
