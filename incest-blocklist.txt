@@ -271,3 +271,8 @@ www.youporn.com##.video-box:has(.thumb-image:matches-attr(alt="/in([+-_ ]|%20)*l
 
 ! -- https://www.youporn.com/categories/
 www.youporn.com##.categoryBox[href="/category/stepfantasy/"]
+
+! -- https://www.youporn.com/porntags/stepdad/
+! Related searches
+www.youporn.com##.related-searches .bubble-porntag:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.youporn.com##.related-searches .bubble-porntag:matches-attr(href="/in([+-_ ]|%20)*law/i")
