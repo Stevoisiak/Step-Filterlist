@@ -26,6 +26,11 @@ www.alphaporno.com##.thumb:has(a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
 www.badjojo.com##.result-body:has(a:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.badjojo.com##.result-body:has(a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
 
+! -- www.badjojo.com/?q=sister
+! Related searches
+www.badjojo.com##.related-searches > a:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
+www.badjojo.com##.related-searches > a:matches-attr(href="/in([+-_ ]|%20)*law/i")
+
 ! ==========
 ! == Beeg ==
 ! ==========
