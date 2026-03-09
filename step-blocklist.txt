@@ -1,5 +1,5 @@
-! Title: Incest Blocklist
-! Homepage: https://github.com/Stevoisiak/Incest-Blocklist
+! Title: Step-Blocklist
+! Homepage: https://github.com/Stevoisiak/Step-Blocklist
 
 ! ===========
 ! == 4tube ==
