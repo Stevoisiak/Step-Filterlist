@@ -49,6 +49,13 @@ donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
+! ==============
+! == E-Hentai ==
+! ==============
+! Compact/Extended view by tag
+* gt = tag, gtl = light tag
+e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:incest"], [title="male:incest"], [title="mixed:incest"]))
+
 ! =============
 ! == eporner ==
 ! =============
