@@ -56,6 +56,13 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 www.eporner.com##.mb:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.eporner.com##.mb:has(img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
+! =============
+! == GO.PORN ==
+! =============
+! -- https://go.porn/
+go.porn##.item:has(a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+go.porn##.item:has(a:matches-attr(title="/in([+-_ ]|%20)*law/i"))
+
 ! =================
 ! == Hentai City ==
 ! =================
