@@ -351,6 +351,12 @@ xxxbunker.com##.thumbnail-list > div:has(.thumbnail:matches-attr(alt="/step([+-_
 xxxbunker.com##.thumbnail-list > div:has(.thumbnail:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
 ! =============
+! == YouJizz ==
+! =============
+www.youjizz.com##.video-thumb:has(.video:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.youjizz.com##.video-thumb:has(.video:matches-attr(href=""/in([+-_ ]|%20)*law/i"))
+
+! =============
 ! == YouPorn ==
 ! =============
 ! -- https://www.youporn.com/
