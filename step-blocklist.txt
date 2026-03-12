@@ -330,7 +330,7 @@ www.xnxx.com##.clear-infobar > span:has(> a:matches-attr(href="/in([+-_ ]|%20)*l
 ! ================
 ! -- https://xogogo.com/index.php?mode=search&q=stepsis&button=Search
 xogogo.com##.VidSpot:has(.ThumbNail:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
-xogogo.com##.VidSpot:has(.ThumbNail:matches-attr(href="/in([+-_ ]|%20)*law/i"))
+xogogo.com##.VidSpot:has(.ThumbNail:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
 ! =============
 ! == xVideos ==
