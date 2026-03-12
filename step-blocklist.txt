@@ -197,6 +197,13 @@ www.pornhub.com##.keepOpen:matches-attr(data-value="/in([+-_ ]|%20)*law/i")
 www.pornhub.com##.subscription-carousel-video-card:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.pornhub.com##.subscription-carousel-video-card:has(img:matches-attr(title="/in([+-_ ]|%20)*law/i"))
 
+! ==========
+! == POVR ==
+! ==========
+! -- https://povr.com/
+povr.com##.scene:has(.thumbnail__link:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+povr.com##.scene:has(.thumbnail__link:matches-attr(href="/in([+-_ ]|%20)*law/i"))
+
 ! =============
 ! == RedTube ==
 ! =============
