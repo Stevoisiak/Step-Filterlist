@@ -354,7 +354,7 @@ xxxbunker.com##.thumbnail-list > div:has(.thumbnail:matches-attr(alt="/in([+-_ ]
 ! == YouJizz ==
 ! =============
 www.youjizz.com##.video-thumb:has(.video:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
-www.youjizz.com##.video-thumb:has(.video:matches-attr(href=""/in([+-_ ]|%20)*law/i"))
+www.youjizz.com##.video-thumb:has(.video:matches-attr(href="/in([+-_ ]|%20)*law/i"))
 
 ! =============
 ! == YouPorn ==
