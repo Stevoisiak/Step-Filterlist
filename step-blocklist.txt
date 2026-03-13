@@ -273,6 +273,12 @@ www.superporn.com##.thumb-video:has(.thumb-video__info-item[href$="/incesto-porn
 www.superporn.com##.thumb-video:has(img:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 www.superporn.com##.thumb-video:has(img:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
+! =============
+! == tnaFlix ==
+! =============
+www.tnaflix.com##[data-vid]:has(> .video-title:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.tnaflix.com##[data-vid]:has(> .video-title:matches-attr(href="/in([+-_ ]|%20)*law/i"))
+
 ! ===========
 ! == Tube8 ==
 ! ===========
