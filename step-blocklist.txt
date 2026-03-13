@@ -121,6 +121,11 @@ jizzberry.com##.item:has(> a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|co
 ! "Incest" category under "Manga" in navbar
 luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 
+! ===================
+! == Max Jizz Tube ==
+! ===================
+www.maxjizztube.com##.thumb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! =============
 ! == My Lust ==
 ! =============
