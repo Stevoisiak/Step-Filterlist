@@ -154,6 +154,12 @@ nhentai.net##.gallery[data-tags~="22942"]
 ! Favorites/Remove button
 nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
 
+! ===============
+! == NudeVista ==
+! ===============
+www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
+www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/in([+-_ ]|%20)*law/i"))
+
 ! ==============
 ! == Porn.com ==
 ! ==============
