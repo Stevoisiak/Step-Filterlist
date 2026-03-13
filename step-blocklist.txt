@@ -175,6 +175,11 @@ pornmeka.com##.item:has(a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousi
 ! * Includes sister sites
 ok.xxx,perfectgirls.xxx,pornhat.com##.thumb-bl-video:has(> .thumb-video > a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==============
+! == Pornheed ==
+! ==============
+www.pornheed.com##.video-item:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! =============
 ! == Pornhub ==
 ! =============
@@ -287,6 +292,7 @@ tube8.com,tube8.es,tube8.fr##.video-box:has(.thumb-image:matches-attr(alt="/(ste
 ! =============
 ! -- https://www.wankzvr.com/
 www.milfvr.com,www.wankzvr.com##.cards-list__item:has(> .card__body > .card__video:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ================
 ! == WeirdJapan ==
 ! ================
@@ -354,3 +360,4 @@ www.youporn.com##.categoryBox[href="/category/stepfantasy/"]
 ! -- https://www.youporn.com/porntags/stepdad/
 ! Related searches
 www.youporn.com##.related-searches .bubble-porntag:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
