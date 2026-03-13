@@ -121,7 +121,7 @@ jizzberry.com##.item:has(> a:matches-attr(title="/in([+-_ ]|%20)*law/i"))
 ! ==============
 ! -- https://www.luscious.net/
 ! "Incest" category under "Manga" in navbar
-luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])\
+luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 
 ! =============
 ! == My Lust ==
