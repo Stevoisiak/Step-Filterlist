@@ -46,6 +46,9 @@ www.badjojo.com##.related-searches > a:matches-attr(href="/in([+-_ ]|%20)*law/i"
 beeg.com##.core-page__unit-column:has(img.tw-bg-overlay-5:matches-attr(alt="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 beeg.com##.core-page__unit-column:has(img.tw-bg-overlay-5:matches-attr(alt="/in([+-_ ]|%20)*law/i"))
 
+! Filter by uploader name
+beeg.com##.core-page__unit-column:has([data-testid="unit-avatar"][href="/StepSiblingsCaught"])
+
 ! ============
 ! == Boorus ==
 ! ============
@@ -113,12 +116,12 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest
 jizzberry.com##.item:has(> a:matches-attr(title="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"))
 jizzberry.com##.item:has(> a:matches-attr(title="/in([+-_ ]|%20)*law/i"))
 
-! =====================
-! == Luscious (NSFW) ==
-! =====================
+! ==============
+! == Luscious ==
+! ==============
 ! -- https://www.luscious.net/
 ! "Incest" category under "Manga" in navbar
-luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
+luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])\
 
 ! =============
 ! == My Lust ==
