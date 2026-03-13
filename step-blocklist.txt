@@ -67,6 +67,12 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:incest"], [title="male:incest"], [title="mixed:incest"]))
 
 ! =============
+! == EmpFlix ==
+! =============
+www.empflix.com##.video-title:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i"):upward(1)
+www.empflix.com##.video-title:matches-attr(href="/in([+-_ ]|%20)*law/i"):upward(1)
+
+! =============
 ! == eporner ==
 ! =============
 ! Videos
