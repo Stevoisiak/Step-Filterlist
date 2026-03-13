@@ -211,7 +211,7 @@ www.pornrabbit.com##.item:has(> a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
 
 ! Related searches
 www.pornrabbit.com##.search-cloud > a:matches-attr(href="/step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle)/i")
-www.pornrabbit.com##.search-cloud > a:matches-attr(href="/in([+-_ ]|%20)*law/i"))
+www.pornrabbit.com##.search-cloud > a:matches-attr(href="/in([+-_ ]|%20)*law/i")
 
 ! ==========
 ! == POVR ==
