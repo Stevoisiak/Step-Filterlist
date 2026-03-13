@@ -52,6 +52,11 @@ donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
+! ================
+! == Definebabe ==
+! ================
+www.definebabe.com##.models-videos__col:has(> .models-image:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ==============
 ! == E-Hentai ==
 ! ==============
