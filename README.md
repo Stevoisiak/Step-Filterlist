@@ -15,3 +15,4 @@ See also:
 * [Steam rules updated to prohibit content that violates rules set forth by payment processors and banks](https://automaton-media.com/en/news/steam-rules-updated-to-prohibit-content-that-violates-rules-set-forth-by-payment-processors-and-banks/) (July 17, 2025 - Automation)
 * [OnlyFans Creators Scramble to Adapt to Imminent Ban](https://www.vice.com/en/article/onlyfans-sexually-explicit-content-ban-reactions/) (August 20, 2021 - Vice)
 * [Tumblr will ban all adult content](https://www.theverge.com/2018/12/3/18123752/tumblr-adult-content-porn-ban-date-explicit-changes-why-safe-mode) (December 3, 2018 - The Verge)
+* [Adult Content Creators Are Fighting Patreon’s New Anti-Porn Rules](https://www.vice.com/en/article/patreon-porn-adult-content-guidelines-open-letter/) (October 25, 2017 - Vice)
