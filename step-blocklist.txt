@@ -16,6 +16,12 @@ www.4tube.com##.pill:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|
 ! -- https://www.alphaporno.com/search/?q=step
 www.alphaporno.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ===============
+! == AskJolene ==
+! ===============
+askjolene.com##.itemContent:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+askjolene.com##.category-thumb:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ======================
 ! == BabesTube (NSFW) ==
 ! ======================
