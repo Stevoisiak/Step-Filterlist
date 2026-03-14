@@ -129,7 +129,7 @@ jizzberry.com##.item:has(> a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|co
 ! == Luscious ==
 ! ==============
 ! -- https://www.luscious.net/
-! "Incest" category under "Manga" in navbar
+! Manga > Incest category navbar
 luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 
 ! ===================
