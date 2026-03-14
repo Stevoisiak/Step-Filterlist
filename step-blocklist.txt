@@ -376,6 +376,11 @@ www.youporn.com##.categoryBox[href="/category/stepfantasy/"]
 ! Related searches
 www.youporn.com##.related-searches .bubble-porntag:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
+! =====================
+! == YourAmateurPorn ==
+! =====================
+www.youramateurporn.com##.-video:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ===================
 ! == You Porn Jizz ==
 ! ===================
