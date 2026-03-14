@@ -178,6 +178,11 @@ www.porn.com##.list-global__item:has(> [title^="Step"])
 ! Videos
 www.porn.com##.list-global__item:has(.go:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! =============
+! == Porndex ==
+! =============
+www.porndex.com##.vidInfo:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
 ! ==============
 ! == PORNMEKA ==
 ! ==============
