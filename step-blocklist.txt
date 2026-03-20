@@ -92,6 +92,12 @@ www.eporner.com##.mb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cous
 ! -- https://go.porn/
 go.porn##.item:has(a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ====================
+! == HD Porn Comics ==
+! ====================
+! Comics by tag
+hdporncomics.com##.type-post:is(.tag-3family, .tag-aunt-comics, .tag-brotherr, .tag-cousinsssss, .tag-daughterr, .tag-family-porno-comics, .tag-fatherr, .tag-mother-comixx, .tag-mom-sonsss, .tag-nephew-comics, .tag-niece, .tag-sister-and-brother, .tag-sisterrr, .tag-son-comics, .tag-son-mom-comics, .tag-uncle-and-niece, .tag-uncle-comicsssss)
+
 ! =================
 ! == Hentai City ==
 ! =================
