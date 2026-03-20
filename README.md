@@ -1,6 +1,6 @@
 # Step-Filterlist for uBlock Origin
 
-A set of filters for uBlock Origin that hides adult content involving incest, step-relatives, or in-laws.
+A set of filters for uBlock Origin that hides content involving incest, step-relatives, or in-laws on adult websites.
 
 ## Disclaimer
 
