@@ -131,6 +131,12 @@ hentaiera.com##.thumb[data-tags~="108"]
 ! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
 hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
 
+! ==============
+! == IMHentai ==
+! ==============
+! Galleries tagged incest
+imhentai.xxx##.thumb[data-tags~="108"]
+
 ! ===============
 ! == JizzBerry ==
 ! ===============
