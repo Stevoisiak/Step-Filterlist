@@ -118,6 +118,12 @@ hentai2read.com##.book-grid > div:has([data-tags|="15"], [data-tags*="-15-"], [d
 hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
 
 ! ===============
+! == HentaiEra ==
+! ===============
+! Galleries tagged incest
+hentaiera.com##.thumb[data-tags~="108"]
+
+! ===============
 ! == Hitomi.la ==
 ! ===============
 ! -- https://hitomi.la/
