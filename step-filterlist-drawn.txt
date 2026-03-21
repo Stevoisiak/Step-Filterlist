@@ -1,4 +1,4 @@
-! Title: Step-Filterlist (Drawn)
+! Title: Step-Filterlist – Drawn/Animated
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
 
 ! ============
