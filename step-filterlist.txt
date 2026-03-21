@@ -1,5 +1,5 @@
-! Title: Step-Blocklist
-! Homepage: https://github.com/Stevoisiak/Step-Blocklist
+! Title: Step-Filterlist
+! Homepage: https://github.com/Stevoisiak/Step-Filterlist
 
 ! ===========
 ! == 4tube ==
