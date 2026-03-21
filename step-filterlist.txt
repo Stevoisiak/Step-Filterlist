@@ -225,6 +225,13 @@ www.superporn.com##.thumb-video:has(.thumb-video__info-item[href$="/incesto-porn
 ! Keywords
 www.superporn.com##.thumb-video:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ===================
+! == The Porn List ==
+! ===================
+! Stepfamily category
+thepornlist.net##.blok2title:has([href="https://www.thepornlist.net/incest-porn-sites/"])
+thepornlist.net##.blok2title:has([href="https://www.thepornlist.net/incest-porn-sites/"]) + .blok2contentmed
+
 ! =============
 ! == tnaFlix ==
 ! =============
