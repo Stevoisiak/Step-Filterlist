@@ -75,6 +75,13 @@ www.eporner.com##.mb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cous
 ! -- https://go.porn/
 go.porn##.item:has(a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==============
+! == HQPorner ==
+! ==============
+hqporner.com##.\36 u:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+! Prevent empty spaces
+hqporner.com##.\31 2u
+
 ! ===============
 ! == JizzBerry ==
 ! ===============
