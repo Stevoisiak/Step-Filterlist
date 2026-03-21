@@ -22,9 +22,9 @@ www.alphaporno.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro
 askjolene.com##.itemContent:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 askjolene.com##.category-thumb:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
-! ======================
-! == BabesTube (NSFW) ==
-! ======================
+! ===============
+! == BabesTube ==
+! ===============
 ! -- https://www.babestube.com/
 babestube.com##.item:has(.th:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
@@ -53,7 +53,7 @@ beeg.com##.core-page__unit-column:has([data-testid="unit-avatar"][href="/StepSib
 ! ============
 ! Imageboards categorized by tag. Filters can be generalized.
 
-! Images with AI tags
+! Images with incest tags
 donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
