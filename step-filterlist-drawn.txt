@@ -1,0 +1,93 @@
+! Title: Step-Filterlist (Drawn)
+! Homepage: https://github.com/Stevoisiak/Step-Filterlist
+
+! ============
+! == Boorus ==
+! ============
+! Imageboards categorized by tag. Filters can be generalized.
+
+! Images with incest tags
+donmai.us##.post-preview:has(img[title~="incest"])
+gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
+hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
+
+! ==============
+! == E-Hentai ==
+! ==============
+! Compact/Extended view by tag
+! gt = tag, gtl = light tag
+e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:incest"], [title="male:incest"], [title="mixed:incest"]))
+
+! ====================
+! == HD Porn Comics ==
+! ====================
+! Comics by tag
+hdporncomics.com##.type-post:is(.tag-3family, .tag-aunt-comics, .tag-brotherr, .tag-cousinsssss, .tag-daughterr, .tag-family-porno-comics, .tag-fatherr, .tag-mother-comixx, .tag-mom-sonsss, .tag-nephew-comics, .tag-niece, .tag-sister-and-brother, .tag-sisterrr, .tag-son-comics, .tag-son-mom-comics, .tag-uncle-and-niece, .tag-uncle-comicsssss)
+
+! =================
+! == Hentai City ==
+! =================
+! -- https://www.hentaicity.com/
+! New Hentai Releases
+www.hentaicity.com##.item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! -- https://www.hentaicity.com/search/video/stepsister
+www.hentaicity.com##.outer-item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! =================
+! == Hentai2Read ==
+! =================
+! -- Homepage
+! Galleries tagged with "incest"
+hentai2read.com##.book-grid > div:has([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+! Recently Uploaded tagged with "incest"
+hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
+
+! ===============
+! == HentaiEra ==
+! ===============
+! Galleries tagged incest
+hentaiera.com##.thumb[data-tags~="108"]
+
+! ===============
+! == Hitomi.la ==
+! ===============
+! -- https://hitomi.la/
+! Galleries tagged with "incest"
+! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
+hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
+
+! ==============
+! == IMHentai ==
+! ==============
+! Galleries tagged incest
+imhentai.xxx##.thumb[data-tags~="108"]
+
+! ==============
+! == Luscious ==
+! ==============
+! -- https://www.luscious.net/
+! Manga > Incest category navbar
+luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
+
+! =============
+! == nhentai == 
+! =============
+! Galleries tagged with "incest"
+! * This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.
+! * Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
+nhentai.net##.gallery[data-tags~="22942"]
+
+! -- https://nhentai.net/favorites/
+! Favorites/Remove button
+nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
+
+! =================
+! == Rule 34.xxx ==
+! =================
+! -- Post list page & Search
+rule34.xxx###content > #post-list > .content > .image-list > span.thumb:has(> a > img:is([title~="incest"], [title~="incest_(lore)"]))
+! -- My Account > My Favorites
+rule34.xxx###content > .image-list > span:has( > span.thumb > a > img:is([title~="incest"], [title~="incest_(lore)"]))  
+! -- Post page (hide image if incest tag is present)
+rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], [href$="&tags=incest_%28lore%29"]):upward(#post-view) > div#right-col > div#fit-to-screen > div.flexi > div > img#image
