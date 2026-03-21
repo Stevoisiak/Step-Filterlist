@@ -24,6 +24,13 @@ e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="femal
 ! Comics by tag
 hdporncomics.com##.type-post:is(.tag-3family, .tag-aunt-comics, .tag-brotherr, .tag-cousinsssss, .tag-daughterr, .tag-family-porno-comics, .tag-fatherr, .tag-mother-comixx, .tag-mom-sonsss, .tag-nephew-comics, .tag-niece, .tag-sister-and-brother, .tag-sisterrr, .tag-son-comics, .tag-son-mom-comics, .tag-uncle-and-niece, .tag-uncle-comicsssss)
 
+! ===============
+! == HentaiCom ==
+! ===============
+! * Does not filter search results on hentaiprn.com
+hentaicom.com,hentaiplay.net,hentaiprn.com##.type-post.tag-incest
+hentaicom.com,hentaiplay.net,hentaiprn.com##.tag-cloud-link[aria-label^="incest" i]
+
 ! =================
 ! == Hentai City ==
 ! =================
