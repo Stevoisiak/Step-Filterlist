@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
 
 ! ===========
+! == 3Movs ==
+! ===========
+www.3movs.com##.thumb:has(.title:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! ===========
 ! == 4tube ==
 ! ===========
 ! Videos with keyword
@@ -69,6 +74,11 @@ www.empflix.com##.video-title:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|co
 ! Videos
 www.eporner.com##.mb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==============
+! == FapHouse ==
+! ==============
+faphouse.com##.thumb:has(.t-i:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! =============
 ! == GO.PORN ==
 ! =============
@@ -123,6 +133,11 @@ www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-at
 ! ===============
 www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ===========
+! == OOXXX ==
+! ===========
+ooxxx.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ==============
 ! == Porn.com ==
 ! ==============
@@ -134,10 +149,21 @@ www.porn.com##.list-global__item:has(> [title^="Step"])
 ! Videos
 www.porn.com##.list-global__item:has(.go:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ============
+! == Porn00 ==
+! ============
+www.porn00.org##.item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
 ! =============
 ! == Porndex ==
 ! =============
 www.porndex.com##.vidInfo:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
+! =============
+! == PornDig ==
+! =============
+www.porndig.com##.video_item_wrapper:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+www.porndig.com##.sidebar_section_item[href="/channels/1197/step-family"]
 
 ! ==============
 ! == PORNMEKA ==
@@ -155,6 +181,11 @@ ok.xxx,perfectgirls.xxx,pornhat.com##.thumb-bl-video:has(> .thumb-video > a:matc
 ! == Pornheed ==
 ! ==============
 www.pornheed.com##.video-item:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! =================
+! == PornHoarder ==
+! =================
+ww2.pornhoarder.tw##.video:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! =============
 ! == Pornhub ==
@@ -183,6 +214,16 @@ www.pornrabbit.com##.item:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|br
 ! Related searches
 www.pornrabbit.com##.search-cloud > a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
+! ==============
+! == Porntrex ==
+! ==============
+www.porntrex.com##.video-item:has(> .thumb:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! =============
+! == PornOne ==
+! =============
+pornone.com##.videocard:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
 ! ==========
 ! == POVR ==
 ! ==========
@@ -207,6 +248,11 @@ www.redtube.com##.category_item[data-category_id="2311"]
 ! == ro89 ==
 ! ==========
 ro89.com##.thumb-content:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
+! ==============
+! == SexyPorn ==
+! ==============
+sxyprn.com##.post_el_small:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! ===========
 ! == Smutr ==
@@ -270,6 +316,12 @@ tube8.com,tube8.es,tube8.fr##.video-box:has(.thumb-image:matches-attr(alt="/(ste
 ! ================
 www.hqasianxxx.com,www.tubesimple.com##.img:has(img:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==========
+! == TXXX ==
+! ==========
+txxx.com##.listing-item:has(.title:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+txxx.com##.categories > .category[href="/categories/step-fantasy/"]
+
 ! =============
 ! == WankzVR ==
 ! =============
@@ -286,6 +338,11 @@ wierdjapan.com##.item:has(> a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|c
 ! == xHamster ==
 ! ==============
 xhamster.com##.thumb-list__item:has(> a:matches-attr(aria-label="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! ===================
+! == XMoviesForYou ==
+! ===================
+xmoviesforyou.com##article:has(> .aspect-video:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
 ! ==============
 ! == XNXX.com ==
@@ -325,6 +382,11 @@ www.xvideos.com##.keywords > li:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|da
 ! ===================
 ! -- https://xxxbunker.com/
 xxxbunker.com##.thumbnail-list > div:has(.thumbnail:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! ================
+! == YesPornVIP ==
+! ================
+yesporn.vip##.thumb:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! =============
 ! == YouJizz ==

@@ -18,6 +18,12 @@ hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([ti
 ! gt = tag, gtl = light tag
 e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:incest"], [title="male:incest"], [title="mixed:incest"]))
 
+! ==================
+! == Fur Affinity ==
+! ==================
+! Images
+www.furaffinity.net##.t-image:has([data-tags~="incest"])
+
 ! ====================
 ! == HD Porn Comics ==
 ! ====================
@@ -89,8 +95,15 @@ nhentai.net##.gallery[data-tags~="22942"]
 ! Favorites/Remove button
 nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
 
+! ===============
+! == Rule34.us ==
+! ===============
+! Images tagged incest
+! * Spaces are used both to replace underscores in tag names and separate tags.
+rule34.us##.thumbail-container > div:has([title~="incest"], [title~="incest,"])
+
 ! =================
-! == Rule 34.xxx ==
+! == Rule34.xxx ==
 ! =================
 ! -- Post list page & Search
 rule34.xxx###content > #post-list > .content > .image-list > span.thumb:has(> a > img:is([title~="incest"], [title~="incest_(lore)"]))
