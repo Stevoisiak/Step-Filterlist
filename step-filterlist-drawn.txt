@@ -9,7 +9,7 @@
 ! Images with incest tags
 donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
-hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
+booru.org,hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org,xbooru.com##.thumb:has([title~="incest"])
 
 ! ====================
 ! == Derpibooru.org ==
