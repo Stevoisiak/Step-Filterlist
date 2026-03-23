@@ -100,6 +100,15 @@ nhentai.net##.gallery[data-tags~="22942"]
 ! Favorites/Remove button
 nhentai.net##.gallery-favorite:has(.gallery[data-tags~="22942"])
 
+! ===========
+! == Pixiv ==
+! ===========
+! -- https://www.pixiv.net/search?q=incest&s_mode=tag&type=artwork
+! Image previews where alt text contains "incest"
+! * Alt text contents are inconsistent. Seems to be based on tags, but it doesn't pull all tags.
+! * On the homepage, this seems to use art title rather than tags
+www.pixiv.net##.col-span-2:has(img[alt*="incest"])
+
 ! ===============
 ! == Rule34.us ==
 ! ===============
