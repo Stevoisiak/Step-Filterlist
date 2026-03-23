@@ -11,6 +11,11 @@ donmai.us##.post-preview:has(img[title~="incest"])
 gelbooru.com##.thumbnail-preview:has(img[title~="incest"])
 hypnohub.net,rule34.paheal.net,rule34.xxx,safebooru.org,tbib.org##.thumb:has([title~="incest"])
 
+! ====================
+! == Derpibooru.org ==
+! ====================
+derpibooru.org##.media-box:has([data-image-tag-aliases~="incest,"])
+
 ! ==============
 ! == E-Hentai ==
 ! ==============
