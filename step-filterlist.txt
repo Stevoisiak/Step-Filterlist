@@ -79,6 +79,11 @@ www.eporner.com##.mb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cous
 ! ==============
 faphouse.com##.thumb:has(.t-i:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==================
+! == Freeuse Porn ==
+! ==================
+freeuseporn.com##.grid > li:has(> .thumb-wrap-link:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! =============
 ! == GO.PORN ==
 ! =============
