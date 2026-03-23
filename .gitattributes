@@ -1,2 +1,3 @@
+*.txt linguist-language=AdBlock linguist-detectable
 # Auto detect text files and perform LF normalization
 * text=auto
