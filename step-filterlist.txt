@@ -15,6 +15,11 @@ www.4tube.com##.card:has(> a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|co
 ! Search suggestions below category thumbnails
 www.4tube.com##.pill:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
+! ===========
+! == 9vids ==
+! ===========
+||9vids.com^
+
 ! =================
 ! == Alpha Porno ==
 ! =================
