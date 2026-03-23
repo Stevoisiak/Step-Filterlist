@@ -23,6 +23,11 @@ derpibooru.org##.media-box:has([data-image-tag-aliases~="incest,"])
 ! gt = tag, gtl = light tag
 e-hentai.org,exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:incest"], [title="male:incest"], [title="mixed:incest"]))
 
+! ==========
+! == e621 ==
+! ==========
+e621.net##.thumbnail[data-tags~="incest_(lore)"]
+
 ! ==================
 ! == Fur Affinity ==
 ! ==================
@@ -38,7 +43,7 @@ hdporncomics.com##.type-post:is(.tag-3family, .tag-aunt-comics, .tag-brotherr, .
 ! ===============
 ! == HentaiCom ==
 ! ===============
-! * Does not filter search results on hentaiprn.com
+! * On hentaiprn.com, reccomended videos are filterd but not search results
 hentaicom.com,hentaiplay.net,hentaiprn.com##.type-post.tag-incest
 hentaicom.com,hentaiplay.net,hentaiprn.com##.tag-cloud-link[aria-label^="incest" i]
 
