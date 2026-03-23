@@ -67,6 +67,11 @@ hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [dat
 ! Galleries tagged incest
 hentaiera.com##.thumb[data-tags~="108"]
 
+! ====================
+! == HentaiFromHell ==
+! ====================
+hentaifromhell.org##.type-post.tag-incest
+
 ! ===============
 ! == Hitomi.la ==
 ! ===============
