@@ -73,7 +73,7 @@ hentai2read.com##.book-grid > div:has(.btn[href="https://hentai2read.com/hentai-
 ! == HentaiEra ==
 ! ===============
 ! Galleries tagged incest
-hentaiera.com##.thumb[data-tags~="108"]
+hentaiera.com,imhentai.xxx###.thumb[data-tags~="108"]
 
 ! ====================
 ! == HentaiFromHell ==
@@ -87,12 +87,6 @@ hentaifromhell.org##.type-post.tag-incest
 ! Galleries tagged with "incest"
 ! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
 hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest-all.html"], [href="/tag/male%3Aincest-all.html"], [href="/tag/female%3Aincest-all.html"])
-
-! ==============
-! == IMHentai ==
-! ==============
-! Galleries tagged incest
-imhentai.xxx##.thumb[data-tags~="108"]
 
 ! ==============
 ! == Luscious ==
