@@ -32,6 +32,11 @@ www.alphaporno.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro
 askjolene.com##.itemContent:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 askjolene.com##.category-thumb:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==================
+! == aShemaleTube ==
+! ==================
+www.ashemaletube.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
 ! ===============
 ! == BabesTube ==
 ! ===============
@@ -59,6 +64,11 @@ beeg.com##.core-page__unit-column:has(img.tw-bg-overlay-5:matches-attr(alt="/(st
 beeg.com##.core-page__unit-column:has([data-testid="unit-avatar"][href="/StepSiblingsCaught"])
 
 ! ================
+! == Clips4Sale ==
+! ================
+www.clips4sale.com##.relative.h-full.w-full.font-sans:has(.absolute:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! ================
 ! == Definebabe ==
 ! ================
 www.definebabe.com##.models-videos__col:has(> .models-image:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
@@ -83,6 +93,16 @@ www.eporner.com##.mb:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cous
 ! == FapHouse ==
 ! ==============
 faphouse.com##.thumb:has(.t-i:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! =================
+! == Femdom Tube ==
+! =================
+femdom-tube.com##.t4z:has(.jcy:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
+! =================
+! == Fetish Papa ==
+! =================
+www.fetishpapa.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! ==================
 ! == Freeuse Porn ==
@@ -344,6 +364,12 @@ www.hqasianxxx.com,www.tubesimple.com##.img:has(img:matches-attr(title="/(step([
 ! ==========
 txxx.com##.listing-item:has(.title:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 txxx.com##.categories > .category[href="/categories/step-fantasy/"]
+
+! ==============
+! == VideoBox ==
+! ==============
+www.videobox.com##.movie-preview:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+www.videobox.com##.video_container:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! =============
 ! == WankzVR ==
