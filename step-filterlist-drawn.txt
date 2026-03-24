@@ -66,6 +66,9 @@ hentai2read.com##.book-grid > div:has([data-tags|="15"], [data-tags*="-15-"], [d
 ! Recently Uploaded tagged with "incest"
 hentai2read.com##.ribbon-primary:is([data-tags|="15"], [data-tags*="-15-"], [data-tags$="-15"])
 
+! -- https://hentai2read.com/bookmark
+hentai2read.com##.book-grid > div:has(.btn[href="https://hentai2read.com/hentai-list/category/Incest/"])
+
 ! ===============
 ! == HentaiEra ==
 ! ===============
