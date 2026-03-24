@@ -62,6 +62,5 @@ nhentai.net##.gallery:is([data-tags~="19440"], [data-tags~="32341"])
 nhentai.net##.gallery-favorite:has(.gallery:is([data-tags~="19440"], [data-tags~="32341"]))
 
 ! == Rule34.us ==
-! Images tagged incest
 ! * Spaces are used both to replace underscores in tag names and separate tags.
 rule34.us##.thumbail-container > div:has([title*="lolicon"], [title*="shotacon"])
