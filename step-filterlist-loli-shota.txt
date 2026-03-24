@@ -48,6 +48,9 @@ hentaifromhell.org##.type-post:is(.tag-loli, .tag-lolicon, .tag-shota, .tag-shot
 ! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
 hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/female%3Aloli-all.html"], [href="/tag/male%3Ashota-all.html"])
 
+! == MyHentai.tv ==
+myhentai.tv##.col-12.col-lg-6.col-xxl-4:has(.item__category > [href="/tag/shota/"])
+
 ! == nhentai ==
 ! Galleries tagged with "lolicon"
 ! * This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.

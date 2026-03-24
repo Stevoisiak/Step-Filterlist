@@ -95,6 +95,11 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest
 ! Manga > Incest category navbar
 luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 
+! =================
+! == MyHentai.tv ==
+! =================
+myhentai.tv##.col-12.col-lg-6.col-xxl-4:has(.item__category > [href="/tag/incest/"])
+
 ! =============
 ! == nhentai == 
 ! =============
