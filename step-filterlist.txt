@@ -108,6 +108,14 @@ hqporner.com##.\31 2u
 ! -- https://jizzberry.com/
 jizzberry.com##.item:has(> a:matches-attr(title="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ===============
+! == Many Vids ==
+! ===============
+! -- https://www.manyvids.com/results?keywords=step
+www.manyvids.com##.VideoCardGrid-module-scss-module__kty7VG__card:has(.VideoCardUI-module-scss-module__OZNhEa__link:matches-attr(aria-label="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+! -- https://www.manyvids.com/Vids?keywords=step
+www.manyvids.com##.VideosGrid-module-scss-module__odSfya__item:has(.VideoCardUI-module-scss-module__OZNhEa__link:matches-attr(aria-label="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ===================
 ! == Max Jizz Tube ==
 ! ===================
