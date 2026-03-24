@@ -148,6 +148,11 @@ www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/(s
 ! ===========
 ooxxx.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ===============
+! == Pichunter ==
+! ===============
+www.pichunter.com##.grid-item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ==============
 ! == Porn.com ==
 ! ==============
