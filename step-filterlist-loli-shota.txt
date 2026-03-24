@@ -1,0 +1,64 @@
+! Title: Step-Filterlist – Loli/Shota
+! Homepage: https://github.com/Stevoisiak/Step-Filterlist
+
+! == Booru ==
+booru.org,hypnohub.net,tbib.org,xbooru.com##.thumb:has(img:is([title~="loli"],[title~="shota"]))
+
+! == Danbooru ==
+donmai.us##.post-preview:has(img:is([title~="loli"],[title~="shota"]))
+
+! == Gelbooru ==
+gelbooru.com##.thumbnail-preview:has(img:is([title~="loli"],[title~="shota"]))
+
+! == e621 ==
+e621.net##.thumbnail:is([data-tags~="loli"], [data-tags~="shota"], .rating-explicit[data-tags~="young"])
+
+! == ExHentai ==
+! Compact/Extended view by tag
+! * gt = tag, gtl = light tag
+exhentai.org##.itg > tbody > tr:has(:is(.gt, .gtl):is([title="female:lolicon"], [title="male:shotacon"]))
+
+! == Fur Affinity ==
+www.furaffinity.net##.t-image:has([data-tags~="loli"], [data-tags~="shota"])
+
+! == Hentaicom ==
+hentaicom.com,hentaiplay.net##.type-post:is(.tag-lolicon, .tag-shoutacon)
+hentaicom.com,hentaiplay.net##.tag-cloud-link[aria-label^="lolicon" i]
+
+! == Hentai2Read ==
+! Galleries tagged with "lolicon" or "shota"
+hentai2read.com##.book-grid > div:has([data-tags|="17"], [data-tags*="-17-"], [data-tags$="-17"])
+hentai2read.com##.book-grid > div:has([data-tags|="44"], [data-tags*="-44-"], [data-tags$="-44"])
+! Recently Uploaded
+hentai2read.com##.ribbon-primary:is([data-tags|="17"], [data-tags*="-17-"], [data-tags$="-17"])
+hentai2read.com##.ribbon-primary:is([data-tags|="44"], [data-tags*="-44-"], [data-tags$="-44"])
+
+! -- https://hentai2read.com/bookmark
+hentai2read.com##.book-grid > div:has(.btn[href="https://hentai2read.com/hentai-list/category/Lolicon/"])
+hentai2read.com##.book-grid > div:has(.btn[href="https://hentai2read.com/hentai-list/category/Shota/"])
+
+! == HentaiEra ==
+! Galleries tagged lolicon or shotacon
+hentaiera.com,imhentai.xxx##.thumb:is([data-tags~="4"], [data-tags~="38"])
+
+! == HentaiFromHell ==
+hentaifromhell.org##.type-post:is(.tag-loli, .tag-lolicon, .tag-shota, .tag-shotacon)
+
+! == Hitomi.la ==
+! * Classes: acg=Artist CG, anime=Anime, cg=Game CG, dj=Doijinshi, imageset=Image Set, manga=Manga
+hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/female%3Aloli-all.html"], [href="/tag/male%3Ashota-all.html"])
+
+! == nhentai ==
+! Galleries tagged with "lolicon"
+! * This filter doesn't always apply. Sometimes tags get left out of the metadata for some reason.
+! * Data tag numbers can be found by examining metatdata on the tags page. https://nhentai.net/tags/
+nhentai.net##.gallery:is([data-tags~="19440"], [data-tags~="32341"])
+
+! -- https://nhentai.net/favorites/
+! Favorites/Remove button
+nhentai.net##.gallery-favorite:has(.gallery:is([data-tags~="19440"], [data-tags~="32341"]))
+
+! == Rule34.us ==
+! Images tagged incest
+! * Spaces are used both to replace underscores in tag names and separate tags.
+rule34.us##.thumbail-container > div:has([title*="lolicon"], [title*="shotacon"])
