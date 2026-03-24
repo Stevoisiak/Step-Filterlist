@@ -35,7 +35,7 @@ askjolene.com##.category-thumb:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(au
 ! ==================
 ! == aShemaleTube ==
 ! ==================
-www.ashemaletube.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+www.ashemaletube.com,www.fetishpapa.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! ===============
 ! == BabesTube ==
@@ -98,11 +98,6 @@ faphouse.com##.thumb:has(.t-i:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cou
 ! == Femdom Tube ==
 ! =================
 femdom-tube.com##.t4z:has(.jcy:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
-
-! =================
-! == Fetish Papa ==
-! =================
-www.fetishpapa.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
 ! ==================
 ! == Freeuse Porn ==
