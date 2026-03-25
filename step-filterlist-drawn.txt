@@ -57,6 +57,13 @@ www.hentaicity.com##.item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro
 ! -- https://www.hentaicity.com/search/video/stepsister
 www.hentaicity.com##.outer-item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
+! ==================
+! == Hentai Haven ==
+! ==================
+! -- https://hentaihaven.xxx/?s=incest
+! Search results by genre
+hentaihaven.xxx##.c-tabs-item__content:has([href="https://hentaihaven.xxx/series/incest/"])
+
 ! =================
 ! == Hentai2Read ==
 ! =================
