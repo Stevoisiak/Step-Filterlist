@@ -1,6 +1,12 @@
 ! Title: Step-Filterlist – Drawn/Animated
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
 
+! =================
+! == 1hentai.org ==
+! =================
+! Category in sidebar
+1hentai.org##.left_menu > li:has(> [href="https://1hentai.org/incest-comics/"])
+
 ! ============
 ! == Boorus ==
 ! ============
