@@ -111,6 +111,12 @@ hentaiera.com,imhentai.xxx###.thumb[data-tags~="108"]
 ! ====================
 hentaifromhell.org##.type-post.tag-incest
 
+! ====================
+! == hentairead.com ==
+! ====================
+hentairead.com##.swiper-slide:has(> .manga-item .manga-item__tags:has-text("Incest"))
+hentairead.com##.manga-item:has(.manga-item__tags:has-text("Incest"))
+
 ! ===============
 ! == Hitomi.la ==
 ! ===============
