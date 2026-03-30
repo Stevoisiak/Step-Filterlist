@@ -170,3 +170,8 @@ rule34.xxx###content > #post-list > .content > .image-list > span.thumb:has(> a 
 rule34.xxx###content > .image-list > span:has( > span.thumb > a > img:is([title~="incest"], [title~="incest_(lore)"]))  
 ! -- Post page (hide image if incest tag is present)
 rule34.xxx##ul#tag-sidebar > li.tag-type-general > a:is([href$="&tags=incest"], [href$="&tags=incest_%28lore%29"]):upward(#post-view) > div#right-col > div#fit-to-screen > div.flexi > div > img#image
+
+! =================
+! == XAnimu.com  ==
+! =================
+xanimu.com##.col-6.col-md-3.col-lg-3.col-xl-2:has(> .video-block .title:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
