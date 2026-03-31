@@ -128,6 +128,13 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/incest
 ! Manga > Incest category navbar
 luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 
+! ==============
+! == Mangadex ==
+! ==============
+! -- https://mangadex.org/titles
+! * Only filters search results, not the front page
+mangadex.org##.manga-card:has([href="/tag/5bd0e105-4481-44ca-b6e7-7544da56b1a3/incest"])
+
 ! =================
 ! == MyHentai.tv ==
 ! =================
