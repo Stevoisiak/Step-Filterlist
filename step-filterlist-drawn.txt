@@ -133,7 +133,7 @@ luscious.net##.desktop-module__submenu-item--njaEB:has(> [href$="/incest-24/"])
 ! ==============
 ! -- https://mangadex.org/titles
 ! * Only filters search results, not the front page
-mangadex.org##.manga-card:has([href="/tag/5bd0e105-4481-44ca-b6e7-7544da56b1a3/incest"])
+mangadex.org##.manga-card:has([href="/tag/5bd0e105-4481-44ca-b6e7-7544da56b1a3/incest"]):has(.bg-status-red:has-text("/(Erotica|Mature)/"))
 
 ! =================
 ! == MyHentai.tv ==

@@ -66,8 +66,9 @@ hitomi.la##:is(.acg, .anime, .cg, .dj, .imageset, .manga):has([href="/tag/female
 ! == Mangadex ==
 ! -- https://mangadex.org/titles
 ! * Only filters search results, not the front page
-mangadex.org##.manga-card:has([href="/tag/2d1f5d56-a1e5-4d0d-a961-2193588b08ec/loli"])
-mangadex.org##.manga-card:has([href="/tag/ddefd648-5140-4e5f-ba18-4eca4071d19b/shota"])
+mangadex.org##.manga-card:has([href="/tag/2d1f5d56-a1e5-4d0d-a961-2193588b08ec/loli"]):has(.bg-status-red:has-text("/(Erotica|Mature)/"))
+mangadex.org##.manga-card:has([href="/tag/ddefd648-5140-4e5f-ba18-4eca4071d19b/shota"]):has(.bg-status-red:has-text("/(Erotica|Mature)/"))
+
 
 ! == MyHentai.tv ==
 myhentai.tv##.col-12.col-lg-6.col-xxl-4:has(.item__category > [href="/tag/shota/"])
