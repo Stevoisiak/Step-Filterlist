@@ -43,7 +43,7 @@ hentaicom.com,hentaiplay.net##.tag-cloud-link[aria-label^="lolicon" i]
 
 ! == HentaiEra ==
 ! Galleries tagged lolicon or shotacon
-hentaiera.com,imhentai.xxx##.thumb:is([data-tags~="4"], [data-tags~="38"])
+hentaiera.com,hentairun.com,imhentai.xxx##[data-tags~="4"], [data-tags~="38"]
 
 ! == HentaiFromHell ==
 hentaifromhell.org##.type-post:is(.tag-loli, .tag-lolicon, .tag-shota, .tag-shotacon)

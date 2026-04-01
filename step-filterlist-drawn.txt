@@ -100,7 +100,7 @@ hentai2read.com##.book-grid > div:has(.btn[href="https://hentai2read.com/hentai-
 ! == HentaiEra ==
 ! ===============
 ! Galleries tagged incest
-hentaiera.com,imhentai.xxx###.thumb[data-tags~="108"]
+hentaiera.com,hentairun.com,imhentai.xxx###[data-tags~="108"]
 
 ! ====================
 ! == HentaiFromHell ==
