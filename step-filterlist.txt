@@ -165,6 +165,8 @@ www.naughtyamerica.com##:is(.site-result-item, .category-result-item):matches-at
 ! == NudeVista ==
 ! ===============
 www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+! By tag
+www.nudevista.com##[itemprop="subjectOf"]:has(:is([href="/?t=brother&s=t"], [href="/?t=daughter&s=t"], [href="/?t=father&s=t"], [href="/?t=incest&s=t"], [href="/?t=mother&s=t"], [href="/?t=son&s=t"], [href="/?t=stepmom&s=t"]))
 
 ! ===========
 ! == OOXXX ==
@@ -370,6 +372,11 @@ txxx.com##.categories > .category[href="/categories/step-fantasy/"]
 ! ==============
 www.videobox.com##.movie-preview:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 www.videobox.com##.video_container:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
+
+! ===============
+! == Wank Tank ==
+! ===============
+wanktank.co##.thumb:has( > a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
 ! =============
 ! == WankzVR ==
