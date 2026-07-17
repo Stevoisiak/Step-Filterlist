@@ -168,6 +168,11 @@ www.nudevista.com##[itemprop="subjectOf"]:has(> .title:matches-attr(content="/(s
 ! By tag
 www.nudevista.com##[itemprop="subjectOf"]:has(:is([href="/?t=brother&s=t"], [href="/?t=daughter&s=t"], [href="/?t=father&s=t"], [href="/?t=incest&s=t"], [href="/?t=mother&s=t"], [href="/?t=son&s=t"], [href="/?t=stepmom&s=t"]))
 
+! ====================
+! == Only Best Porn ==
+! ====================
+onlybestporn.com##.item:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ===========
 ! == OOXXX ==
 ! ===========
