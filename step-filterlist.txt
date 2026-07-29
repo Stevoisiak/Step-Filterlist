@@ -237,7 +237,7 @@ ww2.pornhoarder.tw##.video:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|dau
 ! =============
 ! -- https://www.pornhub.com/
 ! Videos with step<relative> in title
-www.pornhub.com##li[data-video-id]:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+www.pornhub.com##.pcVideoListItem:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
 ! Search autocomplete suggestions
 www.pornhub.com##.keepOpen:matches-attr(data-value="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
