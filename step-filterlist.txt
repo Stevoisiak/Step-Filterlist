@@ -184,6 +184,12 @@ ooxxx.com##.thumb:has(a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|d
 www.pichunter.com##.grid-item:has(img:matches-attr(alt="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
 
 ! ==============
+! == Porn 300 ==
+! ==============
+! Categories
+www.porn300.com##nav .tab__item:has(> [href*="brother"i], [href*="/dad-"i], [href*="daughter"i], [href*="incest"i], [href*="-mom/"i], [href*="-mother/"i], [href*="sister"i])
+
+! ==============
 ! == Porn.com ==
 ! ==============
 ! -- https://www.porn.com/
