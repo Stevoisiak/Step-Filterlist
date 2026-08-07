@@ -37,6 +37,11 @@ askjolene.com##.category-thumb:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(au
 ! ==================
 www.ashemaletube.com,www.fetishpapa.com##.media-item:has-text("/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i")
 
+! ============
+! == Anysex ==
+! ============
+anysex.com##.item:has(> a:matches-attr(href="/(step([+-_ ]|%20)*(aunt|bro|cousin|dad|daughter|fam|father|fantasy|grandma|mama|milf|mom|mother|mum|nephew|niece|sibling|sis|son|ter|uncle))|(in([+-_ ]|%20)*law)/i"))
+
 ! ===============
 ! == BabesTube ==
 ! ===============
