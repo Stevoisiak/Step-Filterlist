@@ -1,5 +1,6 @@
 ! Title: Step-Filterlist – Drawn/Animated
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
+! Author: Stevoisiak
 
 ! =================
 ! == 1hentai.org ==

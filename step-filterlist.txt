@@ -1,5 +1,6 @@
 ! Title: Step-Filterlist – Live Action
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
+! Author: Stevoisiak
 
 ! ===========
 ! == 3Movs ==

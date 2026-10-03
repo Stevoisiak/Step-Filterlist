@@ -1,5 +1,6 @@
 ! Title: Step-Filterlist – Loli/Shota
 ! Homepage: https://github.com/Stevoisiak/Step-Filterlist
+! Author: Stevoisiak
 
 ! == Booru ==
 booru.org,hypnohub.net,tbib.org,xbooru.com##.thumb:has(img:is([title~="loli"],[title~="shota"]))
